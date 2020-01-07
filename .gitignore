@@ -127,3 +127,9 @@ dmypy.json
 
 # Pyre type checker
 .pyre/
+
+###########################################################################
+# User defined
+data/train/
+data/test/
+.idea/
